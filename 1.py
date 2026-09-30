@@ -1,1 +1,1 @@
-print("Это код от главной ветки master")
+print("Это код от новой ветки conflict-branch")
